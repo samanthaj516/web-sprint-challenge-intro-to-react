@@ -12,7 +12,6 @@ const StyledCharacter = styled.div`
     margin: 10px;
     padding: 10px;
     text-align: center;
-    
     max-height: 400px;
     h2 {
         font-size: 2rem;
